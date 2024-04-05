@@ -1,0 +1,275 @@
+{
+	"type": "carousel",
+	"contents": [
+		{
+			"type": "bubble",
+			"size": "mega",
+			"header": {
+				"type": "box",
+				"layout": "horizontal",
+				"contents": [
+					{
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "image",
+								"url": "https://m1r.ai/9/u06lz.png",
+								"margin": "none",
+								"align": "start"
+							}
+						],
+						"margin": "lg",
+						"width": "20%"
+					},
+					{
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "Tiktok > ปั้มยอดขาย",
+								"weight": "bold",
+								"size": "md",
+								"contents": [
+									{
+										"type": "span",
+										"text": "Tiktok"
+									},
+									{
+										"type": "span",
+										"text": " > "
+									},
+									{
+										"type": "span",
+										"text": "ปั้มยอดขาย"
+									}
+								]
+							}
+						],
+						"paddingStart": "xs",
+						"alignItems": "flex-start",
+						"justifyContent": "flex-start",
+						"margin": "lg"
+					}
+				],
+				"alignItems": "center",
+				"margin": "none",
+				"justifyContent": "flex-start",
+				"paddingStart": "xs"
+			},
+			"hero": {
+				"type": "box",
+				"layout": "vertical",
+				"contents": [
+					{
+						"type": "text",
+						"text": "100,000 Views 10,000 Likes",
+						"size": "3xl",
+						"wrap": true,
+						"align": "center",
+						"weight": "bold"
+					}
+				],
+				"alignItems": "center",
+				"justifyContent": "center",
+				"paddingAll": "xxl"
+			},
+			"body": {
+				"type": "box",
+				"layout": "vertical",
+				"contents": [
+					{
+						"type": "box",
+						"layout": "vertical",
+						"margin": "lg",
+						"spacing": "sm",
+						"contents": [
+							{
+								"type": "box",
+								"layout": "baseline",
+								"spacing": "sm",
+								"contents": [
+									{
+										"type": "icon",
+										"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+									},
+									{
+										"type": "text",
+										"text": "เพิ่ม Like คุณภาพสูง"
+									}
+								]
+							},
+							{
+								"type": "box",
+								"layout": "vertical",
+								"margin": "lg",
+								"spacing": "sm",
+								"contents": [
+									{
+										"type": "box",
+										"layout": "baseline",
+										"spacing": "sm",
+										"contents": [
+											{
+												"type": "icon",
+												"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+											},
+											{
+												"type": "text",
+												"text": "เพิ่มวิวคุณภาพสูง"
+											}
+										]
+									}
+								]
+							},
+							{
+								"type": "box",
+								"layout": "vertical",
+								"margin": "lg",
+								"spacing": "sm",
+								"contents": [
+									{
+										"type": "box",
+										"layout": "baseline",
+										"spacing": "sm",
+										"contents": [
+											{
+												"type": "icon",
+												"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+											},
+											{
+												"type": "text",
+												"text": "ทำงานทันที"
+											}
+										]
+									}
+								]
+							},
+							{
+								"type": "box",
+								"layout": "vertical",
+								"margin": "lg",
+								"spacing": "sm",
+								"contents": [
+									{
+										"type": "box",
+										"layout": "baseline",
+										"spacing": "sm",
+										"contents": [
+											{
+												"type": "icon",
+												"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+											},
+											{
+												"type": "text",
+												"text": "ไม่ใช้รหัสผ่าน"
+											}
+										]
+									}
+								]
+							},
+							{
+								"type": "box",
+								"layout": "vertical",
+								"margin": "lg",
+								"spacing": "sm",
+								"contents": [
+									{
+										"type": "box",
+										"layout": "baseline",
+										"spacing": "sm",
+										"contents": [
+											{
+												"type": "icon",
+												"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+											},
+											{
+												"type": "text",
+												"text": "ประหยัด สุดคุ้ม"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				],
+				"paddingBottom": "xxl",
+				"paddingTop": "lg"
+			},
+			"footer": {
+				"type": "box",
+				"layout": "vertical",
+				"contents": [
+					{
+						"type": "box",
+						"layout": "horizontal",
+						"contents": [
+							{
+								"type": "text",
+								"text": "300.00",
+								"size": "xxl",
+								"contents": [
+									{
+										"type": "span",
+										"text": "฿ "
+									},
+									{
+										"type": "span",
+										"text": "300.00"
+									}
+								],
+								"align": "center",
+								"margin": "none",
+								"weight": "bold"
+							}
+						],
+						"justifyContent": "center",
+						"alignItems": "center",
+						"offsetTop": "md"
+					},
+					{
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "ดูโปรไฟล์",
+									"uri": "http://linecorp.com/"
+								},
+								"margin": "none",
+								"color": "#EB4F46",
+								"scaling": false
+							}
+						],
+						"width": "100%",
+						"backgroundColor": "#FCEAED",
+						"paddingTop": "none",
+						"offsetEnd": "none",
+						"offsetBottom": "none",
+						"offsetTop": "xl",
+						"paddingBottom": "md",
+						"height": "70px"
+					}
+				],
+				"paddingTop": "none",
+				"margin": "none",
+				"paddingAll": "none"
+			},
+			"styles": {
+				"hero": {
+					"separator": true
+				},
+				"body": {
+					"separator": true
+				},
+				"footer": {
+					"separator": true
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,383 @@
+{
+	"type": "carousel",
+	"contents": [
+		{
+			"type": "bubble",
+			"size": "mega",
+			"header": {
+				"type": "box",
+				"layout": "horizontal",
+				"contents": [
+					{
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "image",
+								"url": "https://m1r.ai/9/u06lz.png",
+								"margin": "none",
+								"align": "start"
+							}
+						],
+						"margin": "md",
+						"width": "20%"
+					},
+					{
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "Kaminpd",
+								"weight": "bold",
+								"size": "xxl"
+							},
+							{
+								"type": "text",
+								"text": "2,900,000 followers",
+								"size": "sm",
+								"weight": "bold",
+								"contents": [
+									{
+										"type": "span",
+										"text": "2,900,000"
+									},
+									{
+										"type": "span",
+										"text": " followers"
+									}
+								],
+								"offsetEnd": "none",
+								"margin": "none"
+							}
+						],
+						"paddingStart": "xs",
+						"alignItems": "flex-start",
+						"justifyContent": "flex-start",
+						"margin": "lg"
+					}
+				],
+				"alignItems": "center",
+				"margin": "none",
+				"justifyContent": "flex-start",
+				"paddingStart": "xs",
+				"paddingTop": "lg",
+				"paddingBottom": "md"
+			},
+			"hero": {
+				"type": "box",
+				"layout": "vertical",
+				"contents": [
+					{
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "image",
+								"url": "https://favim.com/pd/s11/orig/8/897/8978/89787/soft-anime-icon-icon-anime-Favim.com-8978752.jpg",
+								"size": "3xl",
+								"aspectMode": "cover",
+								"align": "center",
+								"margin": "none"
+							}
+						],
+						"margin": "lg",
+						"width": "60%",
+						"justifyContent": "center",
+						"alignItems": "center",
+						"cornerRadius": "md"
+					},
+					{
+						"type": "text",
+						"text": "ขมิ้น",
+						"align": "center",
+						"margin": "sm",
+						"size": "lg",
+						"weight": "bold"
+					}
+				],
+				"justifyContent": "center",
+				"alignItems": "center"
+			},
+			"body": {
+				"type": "box",
+				"layout": "vertical",
+				"contents": [
+					{
+						"type": "box",
+						"layout": "horizontal",
+						"contents": [
+							{
+								"type": "box",
+								"layout": "baseline",
+								"contents": [
+									{
+										"type": "icon",
+										"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+										"margin": "none"
+									}
+								],
+								"margin": "none",
+								"justifyContent": "flex-start",
+								"alignItems": "flex-start",
+								"width": "7%"
+							},
+							{
+								"type": "text",
+								"text": "Height :    ",
+								"weight": "bold",
+								"size": "sm",
+								"wrap": true,
+								"margin": "sm",
+								"contents": [
+									{
+										"type": "span",
+										"text": "Height : "
+									},
+									{
+										"type": "span",
+										"text": "150"
+									},
+									{
+										"type": "span",
+										"text": " ซม"
+									}
+								]
+							}
+						],
+						"spacing": "none",
+						"paddingAll": "none",
+						"justifyContent": "flex-start",
+						"alignItems": "flex-start"
+					},
+					{
+						"type": "box",
+						"layout": "horizontal",
+						"contents": [
+							{
+								"type": "box",
+								"layout": "baseline",
+								"contents": [
+									{
+										"type": "icon",
+										"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+										"margin": "none"
+									}
+								],
+								"margin": "none",
+								"justifyContent": "flex-start",
+								"alignItems": "flex-start",
+								"width": "7%"
+							},
+							{
+								"type": "text",
+								"text": "Height :    ",
+								"weight": "bold",
+								"size": "sm",
+								"wrap": true,
+								"margin": "sm",
+								"contents": [
+									{
+										"type": "span",
+										"text": "KOL : "
+									},
+									{
+										"type": "span",
+										"text": "เต้น ร้องเพลง สำออย ขี้โวยวาย"
+									}
+								]
+							}
+						],
+						"spacing": "none",
+						"justifyContent": "flex-start",
+						"alignItems": "flex-start"
+					},
+					{
+						"type": "box",
+						"layout": "horizontal",
+						"contents": [
+							{
+								"type": "box",
+								"layout": "baseline",
+								"contents": [
+									{
+										"type": "icon",
+										"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+										"margin": "none"
+									}
+								],
+								"margin": "none",
+								"justifyContent": "flex-start",
+								"alignItems": "flex-start",
+								"width": "7%"
+							},
+							{
+								"type": "text",
+								"text": "Height :    ",
+								"weight": "bold",
+								"size": "sm",
+								"wrap": true,
+								"margin": "sm",
+								"contents": [
+									{
+										"type": "span",
+										"text": "Like : "
+									},
+									{
+										"type": "span",
+										"text": "ซีน่อน นอน"
+									}
+								]
+							}
+						],
+						"spacing": "none",
+						"justifyContent": "flex-start",
+						"alignItems": "flex-start"
+					},
+					{
+						"type": "box",
+						"layout": "horizontal",
+						"contents": [
+							{
+								"type": "box",
+								"layout": "baseline",
+								"contents": [
+									{
+										"type": "icon",
+										"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+										"margin": "none"
+									}
+								],
+								"margin": "none",
+								"justifyContent": "flex-start",
+								"alignItems": "flex-start",
+								"width": "7%"
+							},
+							{
+								"type": "text",
+								"text": "Height :    ",
+								"weight": "bold",
+								"size": "sm",
+								"wrap": true,
+								"margin": "sm",
+								"contents": [
+									{
+										"type": "span",
+										"text": "Allergic : "
+									},
+									{
+										"type": "span",
+										"text": "อาหารทะเล"
+									}
+								]
+							}
+						],
+						"spacing": "none",
+						"justifyContent": "flex-start",
+						"alignItems": "flex-start"
+					},
+					{
+						"type": "box",
+						"layout": "horizontal",
+						"contents": [
+							{
+								"type": "box",
+								"layout": "baseline",
+								"contents": [
+									{
+										"type": "icon",
+										"url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+										"margin": "none"
+									}
+								],
+								"margin": "none",
+								"justifyContent": "flex-start",
+								"alignItems": "flex-start",
+								"width": "7%"
+							},
+							{
+								"type": "text",
+								"text": "Height :    ",
+								"weight": "bold",
+								"size": "sm",
+								"wrap": true,
+								"margin": "sm",
+								"contents": [
+									{
+										"type": "span",
+										"text": "Location :"
+									},
+									{
+										"type": "span",
+										"text": "กรุงเทพมหานคร"
+									}
+								]
+							}
+						],
+						"spacing": "none",
+						"justifyContent": "flex-start",
+						"alignItems": "flex-start"
+					}
+				],
+				"paddingStart": "lg",
+				"spacing": "xs",
+				"paddingTop": "md"
+			},
+			"footer": {
+				"type": "box",
+				"layout": "vertical",
+				"contents": [
+					{
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "ดูโปรไฟล์",
+									"uri": "http://linecorp.com/"
+								},
+								"margin": "none",
+								"color": "#EB4F46",
+								"scaling": false,
+								"gravity": "center"
+							}
+						],
+						"width": "100%",
+						"backgroundColor": "#FCEAED",
+						"paddingTop": "none",
+						"offsetEnd": "none",
+						"offsetBottom": "none",
+						"offsetTop": "none",
+						"paddingBottom": "none",
+						"alignItems": "center",
+						"justifyContent": "center"
+					}
+				],
+				"paddingTop": "none",
+				"margin": "none",
+				"paddingAll": "none",
+				"justifyContent": "flex-end"
+			},
+			"styles": {
+				"header": {
+					"separator": false,
+					"separatorColor": "#B6BBBE"
+				},
+				"hero": {
+					"separator": true,
+					"separatorColor": "#B6BBBE"
+				},
+				"body": {
+					"separatorColor": "#B6BBBE",
+					"separator": true
+				},
+				"footer": {
+					"separatorColor": "#B6BBBE",
+					"separator": true
+				}
+			}
+		}
+	]
+}
